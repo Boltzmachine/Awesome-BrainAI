@@ -15,10 +15,10 @@ A curated list of resources about machine learning for brain signals.
 
 
 #### Pretraining / Foundation Models
-- Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
+- `ICLR 2024` Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
   
   [📖 Paper](https://openreview.net/forum?id=QzTpTRVtrP) | [💻 Code](https://github.com/935963004/LaBraM)
-- BrainLM: A foundation model for brain activity recordings
+- `ICLR 2024` BrainLM: A foundation model for brain activity recordings
   
   [📖 Paper](https://www.biorxiv.org/content/10.1101/2023.09.12.557460v2.abstract) | [💻 Code](https://github.com/vandijklab/BrainLM)
 
@@ -32,7 +32,7 @@ A curated list of resources about machine learning for brain signals.
 
 
 #### Miscellaneous
-- Learning High-Order Relationships of Brain Regions
+- `ICML 2024` Learning High-Order Relationships of Brain Regions
   
   [📖 Paper](https://arxiv.org/pdf/2312.02203) | [💻 Code](https://github.com/Graph-and-Geometric-Learning/HyBRiD)
 - 
