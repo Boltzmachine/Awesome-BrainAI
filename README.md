@@ -49,7 +49,7 @@ A curated list of resources about machine learning for brain signals.
 
 
 #### Miscellaneous
-- `ICML ’24` Learning High-Order Relationships of Brain Regions
+- 🔥 `ICML '24` Learning High-Order Relationships of Brain Regions
   
   [📖 Paper](https://arxiv.org/pdf/2312.02203) | [💻 Code](https://github.com/Graph-and-Geometric-Learning/HyBRiD)
 - 
