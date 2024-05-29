@@ -27,7 +27,9 @@ A curated list of resources about machine learning for brain signals.
 - BrainCLIP: Bridging Brain and Visual-Linguistic Representation Via CLIP for Generic Natural Visual Stimulus Decoding
 
   [📖 Paper](https://arxiv.org/abs/2302.12971) | [💻 Code](https://github.com/YulongBonjour/BrainCLIP.git)
-- 
+
+- `ICLR 2024` BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity
+  [📖 Paper](https://arxiv.org/abs/2310.04420)
 
 
 
