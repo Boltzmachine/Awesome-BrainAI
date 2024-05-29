@@ -15,6 +15,13 @@ A curated list of resources about machine learning for brain signals.
 - `CVPR '23` High-resolution image reconstruction with latent diffusion models from human brain activity
   
   [📖 Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.html) | [💻 Code](https://github.com/yu-takagi/StableDiffusionReconstruction?tab=readme-ov-file) | [🏠 Project Page](https://sites.google.com/view/stablediffusion-with-brain/)
+- `ICML '24` MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data
+
+  [📖 Paper](https://arxiv.org/abs/2403.11207) | [💻 Code](https://github.com/MedARC-AI/MindEyeV2/tree/main) | [🏠 Project Page](https://medarc-ai.github.io/mindeye2/)
+
+- `NeurIPS '23` Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors
+  
+  [📖 Paper](https://arxiv.org/abs/2305.18274) | [💻 Code](https://github.com/MedARC-AI/fMRI-reconstruction-NSD) | [🏠 Project Page](https://medarc-ai.github.io/mindeye/)
 
 
 #### Pretraining / Foundation Models
