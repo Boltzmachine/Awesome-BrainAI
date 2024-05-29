@@ -10,6 +10,9 @@ A curated list of resources about machine learning for brain signals.
 
 ## Resources
 ### Papers
+- `CVPR '23` High-resolution image reconstruction with latent diffusion models from human brain activity
+  
+  [📖 Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.html) | [💻 Code](https://github.com/yu-takagi/StableDiffusionReconstruction?tab=readme-ov-file) | [🏠 Project Page](https://sites.google.com/view/stablediffusion-with-brain/)
 
 #### Image Generation
 
