@@ -43,12 +43,13 @@ A curated list of resources about machine learning for brain signals.
   [📖 Paper](https://arxiv.org/abs/2302.12971) | [💻 Code](https://github.com/YulongBonjour/BrainCLIP.git)
 
 - `ICLR '24` BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity
+  
   [📖 Paper](https://arxiv.org/abs/2310.04420)
 
 
 
 #### Miscellaneous
-- `ICML 2024` Learning High-Order Relationships of Brain Regions
+- `ICML ’24` Learning High-Order Relationships of Brain Regions
   
   [📖 Paper](https://arxiv.org/pdf/2312.02203) | [💻 Code](https://github.com/Graph-and-Geometric-Learning/HyBRiD)
 - 
