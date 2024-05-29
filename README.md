@@ -15,12 +15,16 @@ A curated list of resources about machine learning for brain signals.
 
 
 #### Pretraining / Foundation Models
-- `ICLR 2024` Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
+- `ICLR '24` Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
   
   [📖 Paper](https://openreview.net/forum?id=QzTpTRVtrP) | [💻 Code](https://github.com/935963004/LaBraM)
-- `ICLR 2024` BrainLM: A foundation model for brain activity recordings
+- `ICLR '24` BrainLM: A foundation model for brain activity recordings
   
   [📖 Paper](https://www.biorxiv.org/content/10.1101/2023.09.12.557460v2.abstract) | [💻 Code](https://github.com/vandijklab/BrainLM)
+
+<!-- - Towards Neural Foundation Models for Vision: Aligning EEG, MEG and fMRI Representations to Perform Decoding, Encoding and Modality Conversion
+  [📖 Paper](https://openreview.net/forum?id=nxoKCdmteM) -->
+
 
 
 #### Multi-Modality
@@ -28,7 +32,7 @@ A curated list of resources about machine learning for brain signals.
 
   [📖 Paper](https://arxiv.org/abs/2302.12971) | [💻 Code](https://github.com/YulongBonjour/BrainCLIP.git)
 
-- `ICLR 2024` BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity
+- `ICLR '24` BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity
   [📖 Paper](https://arxiv.org/abs/2310.04420)
 
 
