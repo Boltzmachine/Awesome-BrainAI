@@ -10,6 +10,12 @@ A curated list of resources about machine learning for brain signals.
 
 ## Resources
 ### Papers
+#### Text Generation
+- `Survey` Unveiling Thoughts: A Review of Advancements in EEG Brain Signal Decoding into Text
+  
+  [📖 Paper](https://arxiv.org/abs/2405.00726)
+
+
 #### Image Generation
 
 - `CVPR '23` High-resolution image reconstruction with latent diffusion models from human brain activity
