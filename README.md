@@ -15,6 +15,10 @@ A curated list of resources about machine learning for brain signals.
   
   [📖 Paper](https://arxiv.org/abs/2405.00726)
 
+- A high-performance speech neuroprosthesis
+
+  [📖 Paper](https://www.nature.com/articles/s41586-023-06377-x) | [💻 Code](https://github.com/fwillett/speechBCI)
+
 
 #### Image Generation
 
