@@ -19,6 +19,10 @@ A curated list of resources about machine learning for brain signals.
 
   [📖 Paper](https://www.nature.com/articles/s41586-023-06377-x) | [💻 Code](https://github.com/fwillett/speechBCI)
 
+- A Cross-Modal Approach to Silent Speech with LLM-Enhanced Recognition
+
+  [📖 Paper](https://arxiv.org/abs/2403.05583) | [💻 Code](https://github.com/tbenst/silent_speech)
+
 
 #### Image Generation
 
