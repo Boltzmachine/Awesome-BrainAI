@@ -39,7 +39,7 @@ A curated list of resources about machine learning for brain signals.
 
 
 #### Pretraining / Foundation Models
-- SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals
+- `ICML '24` SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals
 
   [📖 Paper](https://arxiv.org/abs/2405.17766) | [💻 Code](https://github.com/rthapa84/sleepfm-codebase)
 - `ICLR '24` Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
